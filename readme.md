@@ -1,10 +1,12 @@
-# 🟢 ByteClass | learnTECH Ecosystem
+# 🟢 ByteClass 
 
 ![ByteClass Hero](assets/byteclass_hero.png)
 
 > "A cada Byte construindo seu futuro."
 
-Bem-vindo ao repositório oficial da aplicação **ByteClass**, o braço educacional do ecossistema **learnTECH**. Esta aplicação é uma Landing Page de alta performance projetada para apresentar nossa formação Full-Stack robusta, localizada na Sala 902 do Edifício Stella Central, em Juiz de Fora - MG.
+Bem-vindo ao repositório oficial da aplicação **ByteClass**, o braço educacional do ecossistema de aprendizado de **programação**. 
+
+Esta aplicação é uma Landing Page de alta performance projetada para apresentar nossa formação Full-Stack robusta, localizada na Sala 902 do Edifício Stella Central, em Juiz de Fora - MG.
 
 ---
 
@@ -115,7 +117,7 @@ Destaque de Localização: > "Venha tomar um café conosco no Edifício Stella C
 ## 🏗️ Estrutura de Arquivos
 
 ```bash
-learnTECH/
+Cursos-Tech/
 ├── assets/             # Imagens e ícones otimizados (.webp)
 ├── css/
 │   └── style.css       # Design System e Glassmorphism
